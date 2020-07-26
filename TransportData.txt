@@ -1,0 +1,17 @@
+Dodac mozliwosc zaczytania danych dotyczacych poszczegolnych pojazdow z pliku
+(moze byc jeden plik, moze byc wiecej, poszczegolne pola oddzielac | i zalozenie jest ze wszystkie pola sa wypelnione
+
+rozroznienie car/ship/plane
+name
+
+//C| name| kind|
+C|P|volvo v50|personal
+C||T|MAN|truck
+
+//S| name |oceanic
+S|P| Titanic 1(oceaniczny
+S|T|frachtowiec 0 (transport rzeczny)
+
+//P| name |engine
+P|P|Airbus 380 turbo
+P|P|Concorde jet
